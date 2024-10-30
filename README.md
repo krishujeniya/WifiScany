@@ -73,8 +73,8 @@ sudo python3 main.py
 
 Explore WifiScany's interface and features:
 
-![Screenshot 1](Snapshots/11.png)
-![Screenshot 2](Snapshots/12.png)
+![Screenshot 1](11.png)
+![Screenshot 2](12.png)
 
 
 
