@@ -8,6 +8,9 @@ cmd  = os.system("sleep 3 && clear")
 def intro():
     cmd  = os.system("clear")
     print("""\033[1;32m
+#################################################
+#              WifiScany - by Krish Ujeniya      #
+#################################################
 
 ---------------------------------------------------------------------------------------                                                                     
 (1)Start monitor mode       
@@ -174,13 +177,16 @@ def intro():
     elif var == 0 :
         cmd = os.system("clear")
         print("""
-Hi.
-My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
-you can find on Instagram
+Hey,
+Nice to see you...
 
-https://www.instagram.com/ankit_kanojiiya/
+🌱 I’m currently learning MLOps
 
-Contack me +919768367597
+👨‍💻 All of my details are available at krishujeniya.com
+
+💬 Ask me about Computer Vision, Natural Language Processing, Generative AI, Robotics and many more technogies
+
+📫 How to reach me ukideashare0021@gmail.com
 
 Feel Free to Contact,
 
