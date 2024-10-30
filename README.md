@@ -12,8 +12,6 @@
 No need to ask for the Wi-Fi password - **Hack it with WifiScany!**  
 This powerful cybersecurity tool empowers you to access any Wi-Fi network, providing essential features for Wi-Fi penetration testing. **Note: Use responsibly and ethically.**
 
-[![asciicast](https://asciinema.org/a/362908.svg)](https://asciinema.org/a/362908)
-
 ---
 
 ## **Features**
@@ -66,7 +64,7 @@ sudo git clone https://github.com/krishujeniya/WifiScany.git
 cd WifiScany/
 
 # Run the script
-sudo python3 WifiScany.py
+sudo python3 main.py
 ```
 
 ---
@@ -75,14 +73,8 @@ sudo python3 WifiScany.py
 
 Explore WifiScany's interface and features:
 
-![Screenshot 1](Snapshots/0.png)
-![Screenshot 2](Snapshots/1.png)
-![Screenshot 3](Snapshots/2.png)
-![Screenshot 4](Snapshots/3.png)
-![Screenshot 5](Snapshots/4.png)
-![Screenshot 6](Snapshots/5.png)
-![Screenshot 7](Snapshots/6.png)
-![Screenshot 8](Snapshots/7.png)
+![Screenshot 1](Snapshots/11.png)
+![Screenshot 2](Snapshots/12.png)
 
 
 
