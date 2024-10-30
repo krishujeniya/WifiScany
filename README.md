@@ -84,21 +84,7 @@ Explore WifiScany's interface and features:
 ![Screenshot 7](Snapshots/6.png)
 ![Screenshot 8](Snapshots/7.png)
 
----
 
-## **About the Creator**
-
-**Krish Ujeniya**  
-GitHub: [krishujeniya](https://github.com/krishujeniya)
-
----
-
-## **Contact**
-
-Enjoy using WifiScany? You can support my work:
-
-- [WhatsApp](https://wa.me/+919768367597)
-- [Instagram](https://www.instagram.com/krishujeniya/)
 
 ---
 
